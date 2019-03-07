@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Poem
+comment0.text=\n\ Outputs\ a\ poem.\ Simple\ program\ to\ learn\ about\ escape\ sequences.\n\n\ @author\ (Ryan\ Kim)\n\ @version\ (1-16-19)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
