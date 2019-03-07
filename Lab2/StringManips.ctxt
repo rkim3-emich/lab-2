@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringManips
+comment0.text=\n\ Uses\ string\ classes\ to\ analyze\ and\ modify\ quote\ from\ Benjamin\ Franklin.\n\n\ @author\ (Ryan\ Kim)\n\ @version\ (2-4-2019)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
